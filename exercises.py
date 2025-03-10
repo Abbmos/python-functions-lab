@@ -108,7 +108,7 @@ def largest(n1,n2,n3):
  return max     
 
 print('Exercise 6:', largest(3, 1, 2))
-
+##
 # Exercise 7: Calculate a Tip
 #
 # Create a function called `calculate_tip`. It should take the bill amount and the tip percentage (as a whole number).
